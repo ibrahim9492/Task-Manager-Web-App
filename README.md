@@ -8,7 +8,10 @@ A simple full-stack task manager built with Node.js, Express, SQLite (TypeORM), 
 
 ## 📦 Setup
 
-### Backend
+### Backend & Frontend
+
+Backend
+
 ```bash
 
 cd server
@@ -17,7 +20,7 @@ npm install
 
 npm start
 
-### Frontend
+Frontend
 
 ```bash
 
