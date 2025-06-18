@@ -17,13 +17,9 @@ npm install
 
 npm start
 
-Frontend
+### Frontend
 
-bash
-
-Copy
-
-Edit
+```bash
 
 cd client
 
